@@ -1,0 +1,2 @@
+The purpose of this file is to verify the CodePipelin build is triggered
+when something is committed to the repo.
